@@ -7,16 +7,16 @@ A professional, interactive Excel dashboard designed to visualize key sales perf
 ---
 > ✨ Empowering minds. One thought at a time.
 
-![Repo Size](https://img.shields.io/github/repo-size/DheerajMahapatra/Dashbord)
-![Issues](https://img.shields.io/github/issues/DheerajMahapatra/Dashbord)
-![Forks](https://img.shields.io/github/forks/DheerajMahapatra/Dashbord?style=social)
-![Stars](https://img.shields.io/github/stars/DheerajMahapatra/Dashbord?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/DheerajMahapatra/DashBoard)
+![Issues](https://img.shields.io/github/issues/DheerajMahapatra/DashBoard)
+![Forks](https://img.shields.io/github/forks/DheerajMahapatra/DashBoard?style=social)
+![Stars](https://img.shields.io/github/stars/DheerajMahapatra/DashBoard?style=social)
 
 
 ---
 ## 📸 UI Preview
 
-> ![Dashboard Preview](Sales-Dashbord.jpg)  
+> ![Dashboard Preview](SALES-DASHBOARD.jpg)  
 
 
 ---
